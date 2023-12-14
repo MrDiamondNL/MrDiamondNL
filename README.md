@@ -1,6 +1,18 @@
-### Hi there 👋
+### Hi there 👋, Sam Diamond
+#### I am a getCoding Student
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-I'm Sam Diamond Diamond. More to come
+Skills: JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning HTML/CSS/JS 
+- 📫 How to reach me: samdiamondnl@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MrDiamondNL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/sam.diamond.507)  
+
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrDiamondNL)](https://github.com/anuraghazra/github-readme-stats)
 <!--
