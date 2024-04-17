@@ -4,6 +4,7 @@
 Currently in the process of turning my interest in computer and technology into an exciting new career and future 
 
 Projects:
+
 https://mrdiamondnl.github.io/Fantasy-Homepage/
 
 Skills: JS / HTML / CSS
