@@ -7,6 +7,8 @@ Projects:
 
 https://mrdiamondnl.github.io/Fantasy-Homepage/
 
+https://github.com/MrDiamondNL/Personal-Library-Manager
+
 Skills: JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
