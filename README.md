@@ -1,7 +1,7 @@
 ### Hi there 👋, Sam Diamond
 #### I am a getCoding Student
 
-Currently in the process of turning my interest in computer and technology into an exciting new career and future 
+Currently in the process of turning my interest in computer and technology into an exciting new career and future.
 
 Projects:
 
